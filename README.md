@@ -12,7 +12,7 @@ Use below command to run the jar file
 		cmd:  java -jar takeHomeTest-0.0.1-SNAPSHOT-exec.jar  <local path of the directory containing all csv files>
 			e.g.- java -jar takeHomeTest-0.0.1-SNAPSHOT-exec.jar /Users/mdtaufeequealam/Downloads/SampleData
       
-   sample output will look likw below:
+   sample output will look like below:
 
 Total revenue for each website:	
 3612: INR 502930346
